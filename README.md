@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laisbvieira
 - 👀 I’m interested in becoming a web dev
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me laisbvieira@gmail.com
+- 📫 How to reach me laisbarreto.tech@gmail.com
 
 <!---
 laisbvieira/laisbvieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
