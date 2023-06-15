@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laisbvieira
 - 👀 I’m interested in becoming a web dev
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React e TypeScript
 - 📫 How to reach me laisbarreto.tech@gmail.com
 
 <!---
