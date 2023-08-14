@@ -17,5 +17,3 @@
 </div>
 
 ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laisbvieira)](https://github.com/laisbvieira/github-readme-stats)
