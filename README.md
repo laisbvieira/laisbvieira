@@ -22,8 +22,8 @@
   🌟 **Sobre Mim**  
 🔹 **Localização:** São Paulo, São Paulo, Brasil  
 🔹 **Especialização:** Full Stack Developer  
-🔹 **LinkedIn:** [Laís Barreto](#)  
-🔹 **Email:** [email@example.com](mailto:email@example.com)  
+🔹 **LinkedIn:** [Laís Barreto](https://www.linkedin.com/in/lais-barreto/)  
+🔹 **Email:** [laisbarreto.tech@gmail.com](mailto:laisbarreto.tech@gmail.com)  
 
 ---
 
