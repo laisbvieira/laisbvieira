@@ -39,7 +39,7 @@
 
 Eu sou apaixonada por tecnologia e por resolver problemas com soluções criativas. Meu foco está em construir aplicações escaláveis e de alto desempenho, tanto no backend quanto no frontend.
 
-Sou desenvolvedora Full Stack, com experiência em várias tecnologias, como **JavaScript**, **Node.js**, **React** e **PHP**. Tenho especial interesse por frameworks como **Spring Boot** e **Laravel**, além de trabalhar com bancos de dados relacionais como **MySQL** e **PostgreSQL**.
+Sou desenvolvedora Full Stack, com experiência em várias tecnologias, como **JavaScript**,**Java**, **Node.js**, **React** e **PHP**. Tenho especial interesse por frameworks como **Spring Boot** e **Laravel**, além de trabalhar com bancos de dados relacionais como **MySQL** e **PostgreSQL**.
 
 ---
 
