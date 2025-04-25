@@ -1,70 +1,66 @@
 <div style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h1 style="font-size: 36px; color: #007bff; margin-bottom: 15px; text-align: center;">👋 Olá, eu sou a Laís Barreto!</h1>
-    <p style="font-size: 20px; color: #495057; text-align: center;">Uma desenvolvedora Full Stack apaixonada por construir soluções inovadoras e eficientes, focada em criar aplicações robustas e escaláveis.</p>
-
-</div>
-
-#### 🛠️ Stack Tecnológico
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/laravel/art/d5f5e725c27f877ed032225fe0b00afee9337d0f/logo-mark/5%20svg/1%20PMS/laravel-mark-PMS-red-1788C.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <h1 style="font-size: 36px; color: #007bff; margin-bottom: 15px; text-align: center;">👋 Olá! Eu sou a Laís Barreto</h1>
+  <p style="font-size: 20px; color: #495057; text-align: center;">
+    Desenvolvedora Full Stack com foco em backend, apaixonada por criar soluções eficientes e escaláveis com tecnologias modernas.
+  </p>
 </div>
 
 ---
 
-  🌟 **Sobre Mim**  
-🔹 **Localização:** São Paulo, São Paulo, Brasil  
-🔹 **Especialização:** Full Stack Developer  
+### 🛠️ Stack Tecnológico
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
+
+---
+
+### 🌟 Sobre Mim
+
+🔹 **Localização:** São Paulo, SP, Brasil  
+🔹 **Área de atuação:** Desenvolvimento Backend / Full Stack  
 🔹 **LinkedIn:** [Laís Barreto](https://www.linkedin.com/in/lais-barreto/)  
 🔹 **Email:** [laisbarreto.tech@gmail.com](mailto:laisbarreto.tech@gmail.com)  
 
 ---
 
-<div> 
-    <a href="linkedin.com/in/lais-barreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:laisbarreto.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/labvieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-</div>
+### 🚀 Sobre o Meu Trabalho
 
-## 🚀 **Sobre o Meu Trabalho**
+Atuo na construção de aplicações web com foco em performance e qualidade no backend. Tenho experiência em projetos utilizando **Node.js**, **PHP/Laravel**, **Java/Spring Boot** e bancos de dados como **MySQL** e **PostgreSQL**.  
 
-Eu sou apaixonada por tecnologia e por resolver problemas com soluções criativas. Meu foco está em construir aplicações escaláveis e de alto desempenho, tanto no backend quanto no frontend.
-
-Sou desenvolvedora Full Stack, com experiência em várias tecnologias, como **JavaScript**,**Java**, **Node.js**, **React** e **PHP**. Tenho especial interesse por frameworks como **Spring Boot** e **Laravel**, além de trabalhar com bancos de dados relacionais como **MySQL** e **PostgreSQL**.
+Trabalho com desenvolvimento de APIs RESTful, automação de processos, e integração com serviços em nuvem, especialmente **AWS** (Lambda, S3, API Gateway). Busco sempre entregar código limpo, bem estruturado e alinhado às boas práticas.
 
 ---
 
-## 📈 **Habilidades**
+### 📈 Habilidades
 
-- **Linguagens de Programação:** Java, JavaScript, PHP, TypeScript
-- **Frameworks:** Spring Boot, Node.js, React, Laravel
-- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
-- **Ferramentas:** Git, Docker, Jenkins
-- **Metodologias:** Agile (Scrum), Test-Driven Development (TDD)
-
----
-
-## 🌱 **Em Aprendizado**
-
-Atualmente, estou focada em aprimorar meus conhecimentos sobre **Java** e **cloud computing** (AWS, GCP).
+- **Linguagens:** Java, JavaScript, PHP, TypeScript  
+- **Frameworks:** Spring Boot, Laravel, Node.js, Express  
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS (Lambda, S3, API Gateway), Docker  
+- **Ferramentas:** Git, VS Code, Postman  
+- **Metodologias:** Agile (Scrum), TDD, Clean Code  
 
 ---
 
-## 📬 **Contato**
+### 🌱 Em Aprendizado
 
-Fique à vontade para me contatar através dos links abaixo!
+Atualmente estou aprofundando meus conhecimentos em **Java** e em soluções de backend com **AWS** para arquiteturas escaláveis.
+
+---
+
+### 📬 Contato
 
 <div> 
-    <a href="linkedin.com/in/lais-barreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:laisbarreto.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/labvieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/lais-barreto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:laisbarreto.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/labvieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 </div>
